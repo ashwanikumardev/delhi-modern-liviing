@@ -333,8 +333,8 @@ This project is licensed under the MIT License. See LICENSE file for details.
 ## 📞 Support
 
 For support and questions:
-- Email: support@delhimodernliving.com
-- Phone: +91-9876543210
+- Email: ashwiniyadav765435@gmail.com
+- Phone: +91-7654353464
 - Documentation: [Project Wiki]
 
 ## 🙏 Acknowledgments
