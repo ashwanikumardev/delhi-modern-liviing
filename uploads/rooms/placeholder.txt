@@ -1,0 +1,2 @@
+This folder will contain room images.
+For demo purposes, the application will use placeholder images from online sources.
